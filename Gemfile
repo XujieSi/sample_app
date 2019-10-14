@@ -31,7 +31,7 @@ end
   # gem 'therubyracer', :platforms => :ruby
 
 
-gem 'jquery-rails','2.0.0'
+gem 'jquery-rails','3.1.3'
 
 group :test do
 	gem 'capybara','1.1.2'
